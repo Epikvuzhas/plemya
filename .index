@@ -1,0 +1,34 @@
+<html>
+ <head>
+  <center><h1>Доска почёта племени: MRvuzhas</h1></center>
+  <title>Доска почёта племени: MRvuzhas</title>
+ </head>
+ <link rel="stylesheet" href="mysite.css">
+ <body font face="comic sans mc"> 
+  <center><table border="3px" bgcolor="#F7943C">
+      <tr>
+   <td>место</td>
+   <td>ник</td>
+   </tr>
+   <tr>
+   <td>1 место</td>
+   <td>пока ни кто</td>
+   </tr>
+   <tr>
+   <td>2 место</td>
+   <td>пока ни кто</td>
+   </tr>
+   <tr>
+   <td>3 место</td>
+   <td>пока ни кто</td>
+   </tr>
+  </table></center>
+  <center><h2>Фотки племени</h2>
+ <img src="" height="200px">
+ <img src="" height="200px">
+ <img src="" height="200px"></center>
+  <center><h2>Новости племени<h2></center>
+  <p>Вступил новый участник под ником Babijon228suka. </p>
+  <a href="" class="floating-button">Конкурсы</a>
+ </body>
+</html>
